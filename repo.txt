@@ -1,0 +1,19 @@
+A Student Portal is an __________ that allows students to access academic and personal information online.
+
+The main purpose of a student portal is to provide __________ access to services like results, attendance, and course registration.
+
+Student login is usually done using a __________ and __________.
+
+The __________ is the first page that appears after a student logs in.
+
+A student portal application stores student information in a __________ (e.g., MySQL, PostgreSQL).
+
+__________ is used to secure student data and prevent unauthorized access.
+
+The module that shows the list of registered courses is called the __________ module.
+
+Attendance records can be uploaded by __________ and viewed by __________.
+
+A student portal can send important updates and notices using __________ or __________.
+
+In a typical student portal, the backend is developed using languages like __________ or __________, and the frontend is built using __________, __________, and __________.
